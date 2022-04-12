@@ -1,0 +1,9 @@
+Planering för bankapplikation
+
+jag ska göra en app som liknar en bank app fast nog simplare.
+där man kan ta ut och sätta in pengar och visa alla transaktioner
+varje gång man skapar ett konto så får man 1000 kr. Du ska även kunna skapa bankkonton för en användare ifall man vill kunna sätta över pengar
+
+vet inte hur svårt det kommer blir men någon sorts inlogg
+
+kommer använda mig av PySimpleGUI
